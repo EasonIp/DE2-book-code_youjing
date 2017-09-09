@@ -1,6 +1,8 @@
 
+
+
 ###sim
-modelsim/
+modelsim
 verilog_libs/
 rtl_work/
 *.wlf
@@ -52,4 +54,32 @@ incremental_db/
 *.dbs 
 *.psm 
 *.qws 
-*.sft  
+*.sft        
+
+
+#####
+###################  
+*.com  
+*.class  
+*.dll  
+*.exe  
+*.o  
+*.so  
+  
+# Packages #  
+############  
+# it's better to unpack these files and commit the raw source  
+# git has its own built in compression methods  
+*.7z  
+*.dmg  
+*.gz  
+*.iso  
+*.jar  
+*.rar  
+*.tar  
+*.zip  
+# Logs and databases #  
+######################  
+*.log  
+*.sql  
+*.sqlite
