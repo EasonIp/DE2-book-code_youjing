@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Aug 18 14:53:26 2016
+Quartus II 64-Bit Version : 11.0 Build 157 04/27/2011 SJ Full Version
+Revision Name : Q_DECODE_38
+Top-level Entity Name : Q_DECODE_38
+Family : Cyclone IV E
+Total logic elements : 8
+    Total combinational functions : 8
+    Dedicated logic registers : 0
+Total registers : 0
+Total pins : 11
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

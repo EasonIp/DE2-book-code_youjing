@@ -1,0 +1,29 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
+# File: E:\Learning\B00_FPGA\A01_DE2_115\Project_code\PWM_Led\code\PWM_Led.csv
+# Generated on: Wed Jul 26 00:05:55 2017
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair
+clk,Input,PIN_Y2,2,B2_N0,PIN_Y2,,,,,
+led,Output,PIN_G19,7,B7_N2,PIN_G19,,,,,
+option_key[4],Input,PIN_Y23,5,B5_N2,PIN_Y23,,,,,
+option_key[3],Input,PIN_Y24,5,B5_N2,PIN_Y24,,,,,
+option_key[2],Input,PIN_AA22,5,B5_N2,PIN_AA22,,,,,
+option_key[1],Input,PIN_AA23,5,B5_N2,PIN_AA23,,,,,
+option_key[0],Input,PIN_AA24,5,B5_N2,PIN_AA24,,,,,
+rst_n,Input,PIN_M23,6,B6_N2,PIN_M23,,,,,
